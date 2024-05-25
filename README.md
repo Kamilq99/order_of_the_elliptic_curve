@@ -28,7 +28,3 @@ Wynik: (14, 1)
 ## Wymagania
 
 - Python 3.x
-
-## Autor
-
-Ten projekt został stworzony przez [Twoje Imię/Nazwisko/Nick] ([Twoje adres e-mail/GitHub]). 
